@@ -1,0 +1,31 @@
+| Phase                      | Sub-Phase                      | Task                                                  | Sub-task                                                   | Estimated Duration |
+|----------------------------|--------------------------------|-------------------------------------------------------|------------------------------------------------------------|--------------------|
+| 1.Project Setup            | 1.1 Environment Setup          | 1.1.1 Install Required Software (Node.js, Text Editor) | N/A                                                        | 1 day              |
+|                            |                                | 1.1.2 Setup Project Directory                            | N/A                                                        | 1 day              |
+|                            | 1.2 Project Initialization     | 1.2.1 Initialize new Next.js project                      | Identify necessary packages                                | 1 day              |
+|                            |                                |                                                       | Install necessary packages                                 |                    |
+| 2. UI Design               | 2.1 Design Components          | 2.1.1 Identify Key Components                           | N/A                                                        | 1 day              |
+|                            |                                | 2.1.2 Draw Mockups for each component                    | N/A                                                        | 1 day              |
+|                            | 2.2 Route Design               | 2.2.1 Plan Routes                                       | Identify required parameters                               | 1 day              |
+|                            |                                |                                                       | Design route paths                                        |
+| 3. Github API Integration  | 3.1 API Exploration            | 3.1.1 Understand Github API                             | Study the API documentation                                | 1 day              |
+|                            |                                |                                                       | Identify necessary endpoints                              |                    |
+|                            | 3.2 Function Design            | 3.2.1 Design Function for Repository Data Retrieval     | Identify necessary data types                              | 2 days             |
+|                            |                                |                                                       | Write the function |                    |
+| 4. Code Analysis           | 4.1 Syntax Analysis            | 4.1.1 Decide Analysis Approach                          | Understand Syntax Analysis or AST                          | 2 days             |
+|                            | 4.2 Function Design            | 4.2.1 Design Function to Extract Information            | Identify necessary data types                              | 3 days             |
+|                            |                                |                                                       | Write the function                                        |                    |
+| 5. AI Content Generation   | 5.1 AI Model Exploration       | 5.1.1 Explore AI Libraries                              | Understand how to tokenize information                     | 3 days             |
+|                            | 5.2 Content Generation         | 5.2.1 Structure Data for AI Model                      | Organize the data                                          | 4 days             |
+|                            |                                | 5.2.2 Generate Content                                   | Develop a function to feed data                            | 1 week             |
+|                            |                                |                                                       | Develop a function to generate content                     |                    |
+| 6. Display the Content     | 6.1 UI Integration             | 6.1.1 Create Function to Display the Content             | Design the function                                        | 3 days             |
+|                            |                                |                                                       | Implement the function                                     |                    |
+| 7. Testing                 | 7.1 Unit Testing                | 7.1.1 Write Unit Tests                                  | Identify test cases                                        | 2 days             |
+|                            |                                |                                                       | Write test scripts                                         |                    |
+|                            |                                | 7.1.2 Perform Unit Tests                                 | Run and validate test scripts                              |                    |
+|                            | 7.2 Integration Testing        | 7.2.1 Write Integration Tests                           | Identify integration points                                | 2 days             |
+|                            |                                |                                                       | Write test scripts                                         |                    |
+|                            |                                | 7.2.2 Perform Integration Tests                          | Run and validate test scripts                              |                    |
+| 8. Deployment              | 8.1 Setup Deployment           | 8.1.1 Choose and Setup Deployment Platform              | Pick a platform like Vercel or Netlify                        | 1 day              |
+|                            |                                | 8.1.2 Deploy the Website                                | Run deployment scripts                                    | 1 day              |
